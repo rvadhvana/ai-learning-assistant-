@@ -111,4 +111,5 @@ def main():
     st.sidebar.markdown("Made with ❤️ by Romik Vadhvana")
 
 if __name__ == "__main__":
-    main() 
+    main()
+    
