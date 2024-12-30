@@ -1,0 +1,14 @@
+
+__pycache__/
+*.py[cod]
+*.class
+.env
+.DS_Store
+myenv/
+.venv/
+venv/
+ENV/
+*.mp3
+screenshot.png
+response.mp3
+
