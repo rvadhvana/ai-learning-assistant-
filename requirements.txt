@@ -3,7 +3,5 @@ openai
 python-dotenv
 Pillow
 pytesseract
-pyautogui
-screeninfo
 SpeechRecognition
 gtts 

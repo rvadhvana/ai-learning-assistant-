@@ -33,8 +33,8 @@ A multi-mode AI learning assistant that provides real-time help with studying, r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-learning-assistant.git
-   cd ai-learning-assistant
+   git clone https://github.com/rvadhvana/ai-learning-assistant-.git
+   cd ai-learning-assistant-
    ```
 
 2. Install dependencies:
