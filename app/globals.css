@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: theme(colors.background);
+  color: theme(colors.slate.900);
+}
+
+/* Improves tap behavior on mobile without changing layout */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
